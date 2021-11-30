@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "Instructions";
+    src: url(res/fonts/instruction/Instruction.otf);
+    font-weight: 1;
+}
+
+@font-face {
+    font-family: "Instructions";
+    src: url(res/fonts/instruction/Instruction\ Bold.otf);
+    font-weight: 2;
+}
+
+@font-face {
+    font-family: "Instructions";
+    src: url(res/fonts/instruction/Instruction\ Bold\ Italic.otf);
+    font-weight: 3;
+}
+
+@font-face {
+    font-family: "Instructions";
+    src: url(res/fonts/instruction/Instruction\ Italic.otf);
+    font-weight: 4;
+}
+
+@font-face {
+    font-family: "bitwise";
+    src: url(res/fonts/bitwise/bitwise.ttf);
+    font-weight: 5;
+}
+
+@font-face {
+    font-family: "Austhatic";
+    src: url(res/fonts/austhatic_script/Austhatic\ Script.ttf);
+    font-weight: 6;
+}
+
+@font-face {
+    font-family: "KBCloudyDay";
+    src: url(res/fonts/kbcloudyday/KBCloudyDay.ttf);
+    font-weight: 7;
+}
+
+@font-face {
+    font-family: "MAKISUPA";
+    src: url(res/fonts/makisupa/MAKISUPA.TTF);
+    font-weight: 8;
+}
+
+@font-face {
+    font-family: "pinkChicken";
+    src: url(res/fonts/pink_chicken/PinkChicken-Regular.ttf);
+    font-weight: 9;
+}
+
+@font-face {
+    font-family: "SmileCandy";
+    src: url(res/fonts/smile_candy/Smile\ Candy.ttf);
+    font-weight: 10;
+}
+
+@font-face {
+    font-family: "tyPori";
+    src: url(res/fonts/typori/Typori-Regular.ttf);
+    font-weight: 11;
+}
+
+@font-face {
+    font-family: "unispace";
+    src: url(res/fonts/unispace/unispace\ bd.ttf);
+    font-weight: 12;
+}
+
+@font-face {
+    font-family: "unispace";
+    src: url(res/fonts/unispace/unispace\ bd\ it.ttf);
+    font-weight: 13;
+}
+
+@font-face {
+    font-family: "unispace";
+    src: url(res/fonts/unispace/unispace\ it.ttf);
+    font-weight: 14;
+}
+
+@font-face {
+    font-family: "unispace";
+    src: url(res/fonts/unispace/unispace\ rg.ttf);
+    font-weight: 15;
+}
+
+@font-face {
+    font-family: "Vorname";
+    src: url(res/fonts/vorname/Vorname.otf);
+    font-weight: 16;
+}
